@@ -5,17 +5,22 @@
 
 - current colors are a blend of VSCode's Rouge2 theme and personal preference
 
-
 <hr>
 
 ![](example_screenshot.png)
 
 
-- to use, I would recommend copying the entire block of code from the `index.css` file above and pasting it under your own index.css file, and comment out what's originally there, in case anything breaks / you hate it
+- to use, I would recommend copying the entire block of code from the `index.css` file above and pasting it under your own index.css file, and comment out what's originally there, in case anything breaks, or if you like totally hate it
 
 - after saving the file, there's no need to rebuild jupyter lab, just refreshing localhost:xxxx worked for me (and changing: Settings &rarr; JupyterLabTheme &rarr; JupyterLab Dark)
 
-- to make any further modifications, very little html knowledge is needed; the structure of rgb and hex formatting is fairly straightforward
+- to make any further modifications, very little html knowledge is needed; the structure of rgb and hex formatting is fairly straightforward (although some of the variable names are a bit ambiguous)
 
-- I used the default Digital Color Meter app on macOS to extract desired values from pixels on my screen, but there are plenty of other palette-selecting software / websites out there ()
+- bulk of changes were made in
+    - / * Code mirror specific styles * /
+    - / * Cell specific styles * /
+    - / * Layout * /
+    - / * Borders * /
+
+- I used the default Digital Color Meter app on macOS to extract desired values from pixels on my screen, but there are plenty of other palette-selecting software / websites out there 
 
