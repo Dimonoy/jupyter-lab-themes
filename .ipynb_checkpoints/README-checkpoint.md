@@ -17,5 +17,5 @@
 
 - to make any further modifications, very little html knowledge is needed; the structure of rgb and hex formatting is fairly straightforward
 
-- I used the default Digital Color Meter app on macOS to extract desired values from pixels on my screen, but there are plenty of other palette-selecting software / websites out there ()
+- I used the default Digital Color Meter app on macOS to extract desired values from pixels on my screen, but there are plenty of other palette-selecting software / websites out there
 
