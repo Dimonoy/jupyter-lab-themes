@@ -12,7 +12,7 @@
 
 - to use, I would recommend copying the entire block of code from the [`index.css`](https://github.com/atisor73/jupyter-lab-dark-themes/blob/master/index.css) file above and pasting it under your own index.css file, and comment out what's originally there, in case anything breaks, or if you like totally hate it
 
-- after saving the file, there's no need to rebuild jupyter lab, just refreshing localhost:xxxx worked for me (and changing: Settings &rarr; JupyterLabTheme &rarr; JupyterLab Dark)
+- after saving the file, there's no need to rebuild jupyter lab (in fact, this would just overwrite all your changes and re-download the original *.css files), just refreshing localhost:xxxx worked for me (and changing: Settings &rarr; JupyterLabTheme &rarr; JupyterLab Dark)
 
 - to make any further modifications, very little html knowledge is needed; the structure of rgb and hex formatting is fairly straightforward (although some of the variable names are a bit ambiguous)
 
