@@ -11,6 +11,7 @@
 
 ![](example_light_screenshot.png)
 
+<hr>
 
 ### Dark theme: 
 
