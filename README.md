@@ -1,16 +1,16 @@
-# <center>jupyter-lab-dark-themes</center>
+# <center>jupyter-lab-themes</center>
 - the original dark theme is a bit too jarring for me, but I don't know how to actually create a new theme, so I've just changed the colors in the "JupyterLab Dark" theme's index.css file manually  
-
+- storage for light theme (modified layout and accent colors), jupyter build deleted previous copy! 
 - for me, the `index.css` file was in `/anaconda3/share/jupyter/lab/themes/@jupyterlab/theme-dark-extension/index.css` (note that the @ sign should have a forward slash before it `\` if typing directly into terminal)
 
 - current colors are a blend of VSCode's Rouge2 theme and personal preference
 
 <hr>
 
-![](example_screenshot.png)
+![](example_dark_screenshot.png)
+![](example_light_screenshot.png)
 
-
-- to use, I would recommend copying the entire block of code from the [`index.css`](https://github.com/atisor73/jupyter-lab-dark-themes/blob/master/index.css) file above and pasting it under your own index.css file, and comment out what's originally there, in case anything breaks, or if you like totally hate it
+- to use, I would recommend copying the entire block of code from the [`index.css`](https://github.com/atisor73/jupyter-lab-themes/blob/master/index.css) file above and pasting it under your own index.css file, and comment out what's originally there, in case anything breaks, or if you like totally hate it
 
 - after saving the file, there's no need to rebuild jupyter lab (in fact, this would just overwrite all your changes and re-download the original *.css files), just refreshing localhost:xxxx worked for me (and changing: Settings &rarr; JupyterLabTheme &rarr; JupyterLab Dark)
 
