@@ -6,11 +6,16 @@
 - current colors are a blend of VSCode's Rouge2 theme and personal preference
 
 <hr>
-##Dark theme: 
-![](example_dark_screenshot.png)
 
 ##Light theme: 
+
 ![](example_light_screenshot.png)
+
+
+##Dark theme: 
+
+![](example_dark_screenshot.png)
+
 
 - to use, I would recommend copying the entire block of code from the dark [`index.css`](https://github.com/atisor73/jupyter-lab-themes/blob/master/theme-dark-extension/index.css) or light [`index.css`](https://github.com/atisor73/jupyter-lab-themes/blob/master/theme-light-extension/index.css) file above and pasting it under your own index.css file, and comment out what's originally there, in case anything breaks, or if you like totally hate it
 
