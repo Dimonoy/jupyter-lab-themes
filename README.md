@@ -7,12 +7,12 @@
 
 <hr>
 
-## Light theme: 
+### Light theme: 
 
 ![](example_light_screenshot.png)
 
 
-## Dark theme: 
+### Dark theme: 
 
 ![](example_dark_screenshot.png)
 
