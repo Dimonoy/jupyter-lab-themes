@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/atisor73)
+
 # <center>jupyter-lab-themes</center>
 - the original dark theme is a bit too jarring for me, but I don't know how to actually create a new theme, so I've just changed the colors in the "JupyterLab Dark" theme's index.css file manually  
 - storage for light theme (modified layout and accent colors), jupyter build deleted previous copy! 
