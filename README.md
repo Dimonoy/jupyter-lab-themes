@@ -14,9 +14,13 @@
 ![](example_light_screenshot.png)
 
 <hr>
+<br>
+
+
+
 ### Dark theme: 
 
-I have two themes for dark mode, one is based off of [`rainglow`'s'](https://github.com/rainglow) frantic contrast rainbow theme, and the other a very different version of VSCode's Rouge Theme.
+I have two themes for dark mode, one is based off of [`rainglow`'s](https://github.com/rainglow) frantic contrast rainbow theme, and the other a very different version of VSCode's Rouge Theme.
 
 
 
