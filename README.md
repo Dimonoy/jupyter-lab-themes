@@ -14,10 +14,19 @@
 ![](example_light_screenshot.png)
 
 <hr>
-
 ### Dark theme: 
 
-![](example_dark_screenshot.png)
+I have two themes for dark mode, one is based off of [`rainglow`'s'](https://github.com/rainglow) frantic contrast rainbow theme, and the other a very different version of VSCode's Rouge Theme.
+
+
+
+### *Frantic Contrast*
+
+![](example_dark_frantic_screenshot.png)
+
+### *Rouge*
+
+![](example_dark_rouge_screenshot.png)
 
 
 - to use, I would recommend copying the entire block of code from the dark [`index.css`](https://github.com/atisor73/jupyter-lab-themes/blob/master/theme-dark-extension/index.css) or light [`index.css`](https://github.com/atisor73/jupyter-lab-themes/blob/master/theme-light-extension/index.css) file above and pasting it under your own index.css file, and comment out what's originally there, in case anything breaks, or if you like totally hate it
