@@ -2,14 +2,15 @@
 
 # <center>jupyter-lab-themes</center>
 - the original dark theme is a bit too jarring for me, but I don't know how to actually create a new theme, so I've just changed the colors in the "JupyterLab Dark" theme's index.css file manually  
-- storage for light theme (modified layout and accent colors), jupyter build deleted previous copy! 
+- storage for light theme (modified layout and accent colors), jupyter build deleted previous copy!
 - for me, the `index.css` file was in `/anaconda3/share/jupyter/lab/themes/@jupyterlab/theme-dark-extension/index.css` (note that the @ sign should have a forward slash before it `\` if typing directly into terminal)
 
 - current colors are a blend of VSCode's Rouge2 theme and personal preference
 
 <hr>
 
-### Light theme: 
+
+## Light theme:
 
 ![](example_light_screenshot.png)
 
@@ -18,7 +19,7 @@
 
 
 
-### Dark theme: 
+## Dark theme:
 
 I have two themes for dark mode, one is based off of [`rainglow`'s](https://github.com/rainglow) frantic contrast rainbow theme, and the other a very different version of VSCode's Rouge Theme.
 
@@ -46,5 +47,4 @@ I have two themes for dark mode, one is based off of [`rainglow`'s](https://gith
     - / * Borders * /
 
 
-- I used the default Digital Color Meter app on macOS to extract desired values from pixels on my screen, but there are plenty of other palette-selecting software / websites out there 
-
+- I used the default Digital Color Meter app on macOS to extract desired values from pixels on my screen, but there are plenty of other palette-selecting software / websites out there
